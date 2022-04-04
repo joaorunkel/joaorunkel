@@ -1,11 +1,10 @@
 Aerospace Engineering student at University of Brasília :rocket:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaorunkel&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorunkel&layout=compact&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/joaorunkel">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaorunkel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorunkel&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 
