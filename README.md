@@ -49,6 +49,6 @@ def have_fun():
     print("Having a blast coding while the stars wink at me... ✨🤖")
 
 # Buckle up, it's time for an adventure!
-launch_rocket("Learningville")
+launch_rocket("Codesmos")
 explore_space()
 have_fun()
