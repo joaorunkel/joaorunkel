@@ -4,7 +4,7 @@
 
 # Aerospace Engineering Student at University of Brasília :rocket:
 
-## Currently learning ML and AI Fundamentals with Python :robot:
+## Currently learning ML and AI using Python :robot:
 
 <div>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=joaorunkel&count_private=true&theme=radical" />
