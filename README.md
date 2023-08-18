@@ -1,6 +1,10 @@
-# Aerospace Engineering Student at University of Brasília :rocket:
+```python
+def introduce_myself():
+    print("Aerospace Engineering Student at University of Brasília :rocket:")
+    print("Currently learning ML and AI Fundamentals with Python :robot:")
 
-Currently learning ML and AI Fundamentals with Python :robot:
+introduce_myself()
+```
 
 <div>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=joaorunkel&count_private=true&theme=radical" />
@@ -32,4 +36,3 @@ Currently learning ML and AI Fundamentals with Python :robot:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<!-- Add more badges here -->
