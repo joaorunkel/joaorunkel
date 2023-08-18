@@ -1,10 +1,11 @@
-```python
-def introduce_myself():
-    print("Aerospace Engineering Student at University of Brasília :rocket:")
-    print("Currently learning ML and AI Fundamentals with Python :robot:")
+<!-- Animated GIF background -->
+<div style="position: relative; overflow: hidden;">
+  <img src="" width="100%" alt="Animated Background" style="position: absolute; top: 0; left: 0; z-index: -1;">
+</div>
 
-introduce_myself()
-```
+# Aerospace Engineering Student at University of Brasília :rocket:
+
+Currently learning ML and AI Fundamentals with Python :robot:
 
 <div>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=joaorunkel&count_private=true&theme=radical" />
@@ -36,3 +37,11 @@ introduce_myself()
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## My Journey in Code and Sky :rocket:
+
+```python
+def introduce_myself():
+    print("Aerospace Engineering Student at University of Brasília :rocket:")
+    print("Currently learning ML and AI Fundamentals with Python :robot:")
+
+introduce_myself()
