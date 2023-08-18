@@ -1,6 +1,6 @@
 <!-- Animated GIF background -->
 <div style="position: relative; overflow: hidden;">
-  <img src="" width="100%" alt="Animated Background" style="position: absolute; top: 0; left: 0; z-index: -1;">
+  <img src="https://raw.githubusercontent.com/joaorunkel/joaorunkel/main/tumblr_ocus3tgqwG1tyko1uo1_1280.webp" width="100%" alt="Animated Background" style="position: absolute; top: 0; left: 0; z-index: -1;">
 </div>
 
 # Aerospace Engineering Student at University of Brasília :rocket:
