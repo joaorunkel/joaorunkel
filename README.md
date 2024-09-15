@@ -36,8 +36,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{joaorunkel}/output/github-contribution-grid-snake-dark.svg)
-
 
 ```python
 def launch_rocket(destination):
@@ -53,4 +51,6 @@ def have_fun():
 launch_rocket("Codesmos")
 explore_space()
 have_fun()
+```
 
+![GitHub Snake Animation](https://github.com/joaorunkel/joaorunkel/blob/output/github-contribution-grid-snake.svg)
