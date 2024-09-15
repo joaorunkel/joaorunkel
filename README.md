@@ -53,7 +53,5 @@ explore_space()
 have_fun()
 ```
 
-### 🐍 GitHub Contribution Snake
-
-![GitHub Snake Animation](https://github.com/joaorunkel/joaorunkel/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/joaorunkel/joaorunkel/blob/output/github-snake-dark.svg)
 
