@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/joaorunkel/joaorunkel/main/ezgif.com-crop%20(1).webp" width="100%" alt="Animated Background" style="position: absolute; top: 0; left: 0; z-index: -1;">
 </div>
 
-# Aerospace Engineering Student at University of Brasília :rocket:
+# Aerospace Engineering Student at TUM :rocket:
 
 ## Currently learning ML and AI using Python :robot:
 
